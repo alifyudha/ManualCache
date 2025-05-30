@@ -1,0 +1,61 @@
+"AppState"
+{
+	"appid"		"2622380"
+	"universe"		"1"
+	"LauncherPath"		"C:\\program files (x86)\\steam\\steam.exe"
+	"name"		"ELDEN RING NIGHTREIGN"
+	"StateFlags"		"4"
+	"installdir"		"ELDEN RING NIGHTREIGN"
+	"LastUpdated"		"1748620598"
+	"LastPlayed"		"1748621061"
+	"SizeOnDisk"		"22083111926"
+	"StagingSize"		"0"
+	"buildid"		"18446338"
+	"LastOwner"		"76561199729832312"
+	"DownloadType"		"1"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"338228304"
+	"BytesDownloaded"		"338228304"
+	"BytesToStage"		"535811831"
+	"BytesStaged"		"535811831"
+	"TargetBuildID"		"18446338"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"2622381"
+		{
+			"manifest"		"9139632565061756864"
+			"size"		"21547300095"
+		}
+		"2622383"
+		{
+			"manifest"		"818727658284817322"
+			"size"		"116312632"
+		}
+		"3515600"
+		{
+			"manifest"		"1201247461030102837"
+			"size"		"419499199"
+			"dlcappid"		"3515600"
+		}
+	}
+	"InstallScripts"
+	{
+		"2622381"		"Game\\easyanticheat\\install_script.vdf"
+	}
+	"SharedDepots"
+	{
+		"228988"		"228980"
+		"228990"		"228980"
+	}
+	"UserConfig"
+	{
+		"language"		"english"
+	}
+	"MountedConfig"
+	{
+		"language"		"english"
+	}
+}
